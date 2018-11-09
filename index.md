@@ -3,34 +3,19 @@
 Me llamo Antonio Saldaña Cordero y soy Adminitrador de sistemas ya que poseo el titulo de Administracion de sistemas informáticos en red.
 Nací el 11 de Noviembre de 1999 y desde pequeño siempre me ha entusiasmado el mundo de la informatica.
 
-### Markdown
+### Estudios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Además de haber estudiado Bachillerato de ciencias bilingüe ,recientemente he estudiado y conseguido con éxito la titulación de administrador de sistemas informáticos en red
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+/* ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antoniosalco/Antoniosalco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*/
 
-### Support or Contact
+### CONTACTO
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Si se desea cnotactar conmigo se puede hacer a través de mi telefono movil o mi correo::
+
+tlf: 666555555
+correo: A_antsalcor@iestriana.com
+
