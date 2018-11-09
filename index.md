@@ -7,10 +7,6 @@ Nací el 11 de Noviembre de 1999 y desde pequeño siempre me ha entusiasmado el 
 
 Además de haber estudiado Bachillerato de ciencias bilingüe ,recientemente he estudiado y conseguido con éxito la titulación de administrador de sistemas informáticos en red
 
-/* ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antoniosalco/Antoniosalco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-*/
 
 ### CONTACTO
 
