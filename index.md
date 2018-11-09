@@ -5,7 +5,7 @@ Nací el 11 de Noviembre de 1999 y desde pequeño siempre me ha entusiasmado el 
 
 ### Estudios
 
-Además de haber estudiado Bachillerato de ciencias bilingüe ,recientemente he estudiado y conseguido con éxito la titulación de administrador de sistemas informáticos en red
+Además de haber estudiado Bachillerato de ciencias bilingüe, recientemente he estudiado y conseguido con éxito la titulación de administrador de sistemas informáticos en red
 
 
 ### CONTACTO
