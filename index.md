@@ -1,7 +1,7 @@
 ## SOBRE MÍ
 
 Me llamo Antonio Saldaña Cordero y soy Adminitrador de sistemas ya que poseo el titulo de Administracion de sistemas informáticos en red.
-Nací el 11 de Noviembre de 1999
+Nací el 11 de Noviembre de 1999 y desde pequeño siempre me ha entusiasmado el mundo de la informatica.
 
 ### Markdown
 
