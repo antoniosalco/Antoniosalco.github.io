@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## SOBRE MÍ
 
-You can use the [editor on GitHub](https://github.com/antoniosalco/Antoniosalco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me llamo Antonio Saldaña Cordero y soy Adminitrador de sistemas ya que poseo el titulo de Administracion de sistemas informáticos en red.
+Nací el 11 de Noviembre de 1999
 
 ### Markdown
 
